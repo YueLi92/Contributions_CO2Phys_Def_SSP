@@ -1,4 +1,4 @@
-# Codes that support the manuscript "Contributions of CO2 physiology and deforestation to future climate change in the Amazon"
+# Codes that support the manuscript "Future increase in Amazonian water stress due to CO2 physiology and deforestation"
 > by Yue Li, Jessica C.A. Baker, Paulo M. Brando, Forrest M. Hoffman, David M. Lawrence, Douglas C. Morton, Abigail L.S. Swann, Maria R. Uribe, James T. Randerson
 >> Submitted to Nature Water
 
